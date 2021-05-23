@@ -1,0 +1,17 @@
+*, html, body {
+  // 
+}
+
+body {
+  background-color: lightblue;
+  text-align: center;
+}
+
+#increment-btn {
+  background-color: lightgreen;
+}
+
+#save-btn {
+  background-color: lightcoral;
+  margin-top: 5px;
+}
